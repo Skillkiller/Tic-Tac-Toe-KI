@@ -7,4 +7,5 @@ Die Mini Max KI-Klasse berechnet über den Minimax-Algorithmus sinnvolle Spielz�
 Dieses Projekt hat eine Abhängigkeit auf das JGameGrid Projekt von aplu.ch.  
 GameGrid Webseite: http://www.java-online.ch/gamegrid/index.php  
 Webseite vom Entwickler: https://www.aplu.ch/home/apluhomex.jsp?site=45  
+
 ---
